@@ -1,12 +1,12 @@
 {
-    "name": "form-validator",
-    "version": "1.0.0",
-    "description": "Custom validation of form using Vanilla JS",
-    "scripts": {
-      "start": "serve",
-    },
-    "dependencies": {
-      "serve": "^10.0.1"
-    },
-    "author": "Debak Sen"
-  }
+  "name": "project_name",
+  "version": "1.0.0",
+  "description": "Project Description",
+  "scripts": {
+    "start": "serve",
+  },
+  "dependencies": {
+    "serve": "^10.0.1"
+  },
+  "author": "Debak Sen"
+}
